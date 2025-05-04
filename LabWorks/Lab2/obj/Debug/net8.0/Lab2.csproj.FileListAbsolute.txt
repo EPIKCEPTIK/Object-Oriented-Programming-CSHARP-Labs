@@ -1,0 +1,15 @@
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\bin\Debug\net8.0\Lab2.exe
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\bin\Debug\net8.0\Lab2.deps.json
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\bin\Debug\net8.0\Lab2.dll
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\bin\Debug\net8.0\Lab2.pdb
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\Lab2.dll
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\Lab2.pdb
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+C:\Users\EPIKCEPTIK\Desktop\Реп\Object-Oriented-Programming-CSHARP-Labs\LabWorks\Lab2\obj\Debug\net8.0\ref\Lab2.dll
