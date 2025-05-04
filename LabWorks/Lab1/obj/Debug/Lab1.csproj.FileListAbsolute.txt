@@ -1,0 +1,14 @@
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\bin\Debug\Lab1.exe
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\bin\Debug\Lab1.pdb
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\obj\Debug\Lab1.exe
+C:\Users\vital\OneDrive\Рабочий стол\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\obj\Debug\Lab1.pdb
+C:\Users\EPIKCEPTIK\Desktop\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\EPIKCEPTIK\Desktop\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\bin\Debug\Lab1.exe
+C:\Users\EPIKCEPTIK\Desktop\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\bin\Debug\Lab1.pdb
+C:\Users\EPIKCEPTIK\Desktop\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\EPIKCEPTIK\Desktop\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\EPIKCEPTIK\Desktop\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\obj\Debug\Lab1.exe
+C:\Users\EPIKCEPTIK\Desktop\2 Курс\2 семестр\C#\Лабораторні\LabWorks\Lab1\obj\Debug\Lab1.pdb
